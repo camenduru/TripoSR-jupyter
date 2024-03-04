@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TripoSR-jupyter/blob/main/TripoSR_jupyter.ipynb) | TripoSR_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TripoSR-jupyter/blob/main/TripoSR_gradio_jupyter.ipynb) | TripoSR_jupyter
 
 ### 🧬 Code
 https://github.com/VAST-AI-Research/TripoSR
