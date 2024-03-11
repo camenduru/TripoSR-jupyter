@@ -22,4 +22,4 @@ https://www.tripo3d.ai/
 https://github.com/camenduru/TripoSR-jupyter/assets/54370274/b89a84b9-a960-45e4-93d8-8d57425cdd8f
 
 ### 🏢 Sponsor
-https://modelslab.com
+https://replicate.com
